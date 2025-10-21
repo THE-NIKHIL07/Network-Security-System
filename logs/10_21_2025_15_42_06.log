@@ -1,6 +1,0 @@
-[2025-10-21 15:42:08,746] 39 root - INFO -  Connected to PostgreSQL successfully.
-[2025-10-21 15:42:08,746] 14 root - INFO - initiate the data ingestion
-[2025-10-21 15:42:09,403] 54 root - INFO -  Exported PostgreSQL table to DataFrame successfully.
-[2025-10-21 15:42:09,506] 65 root - INFO -  Exported data into feature store successfully.
-[2025-10-21 15:42:09,512] 76 root - INFO -  Performed train-test split on the dataframe.
-[2025-10-21 15:42:09,603] 85 root - INFO -  Exported train and test CSV files successfully.
