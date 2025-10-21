@@ -5,4 +5,7 @@ psycopg2-binary
 certifi 
 setuptools
 scikit-learn
+scipy
+dill
+pyaml
 #-e .# refering to setup.py
