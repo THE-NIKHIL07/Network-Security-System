@@ -19,6 +19,4 @@ logging.basicConfig(
     level=logging.INFO,
 )
 
-# Test logging
-logging.info("Logging is set up successfully!")
-print(f"Log file created at: {LOG_FILE_PATH}")
+

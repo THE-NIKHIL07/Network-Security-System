@@ -1,8 +1,8 @@
 python-dotenv
 pandas
 numpy
-pymongo
+psycopg2-binary
 certifi 
 setuptools
-
+scikit-learn
 #-e .# refering to setup.py
