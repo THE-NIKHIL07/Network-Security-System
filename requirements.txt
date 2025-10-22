@@ -7,5 +7,6 @@ setuptools
 scikit-learn
 scipy
 dill
+mlflow
 pyaml
 #-e .# refering to setup.py

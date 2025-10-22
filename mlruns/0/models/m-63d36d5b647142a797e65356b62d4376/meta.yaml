@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/NIKHIL/Desktop/Network%20Security%20System/mlruns/0/models/m-63d36d5b647142a797e65356b62d4376/artifacts
+creation_timestamp: 1761127602562
+experiment_id: '0'
+last_updated_timestamp: 1761127605609
+model_id: m-63d36d5b647142a797e65356b62d4376
+model_type: null
+name: model
+source_run_id: c187609ef0ab4313a612e206481356a4
+status: 2
+status_message: null

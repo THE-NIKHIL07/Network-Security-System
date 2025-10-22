@@ -46,7 +46,7 @@ class DataTransformation :
         """
         logging.info("Entered get_data_trnasformer_object method of Trnasformation class")
         try:
-           imputer:KNNImputer=KNNImputer(**DATA_TRANSFORMATION_IMPUTER_PARAMS)
+           imputer:KNNImputer=KNNImputer(**DATA_TRANSFORMATION_IMPUTER_PARAMS) # take it as key value pair
            logging.info(
                 f"Initialise KNNImputer with {DATA_TRANSFORMATION_IMPUTER_PARAMS}"
             )
