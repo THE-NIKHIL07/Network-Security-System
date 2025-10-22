@@ -8,5 +8,9 @@ scikit-learn
 scipy
 dill
 mlflow
+dagshub
 pyaml
+fastapi
+uvicorn
+
 #-e .# refering to setup.py
